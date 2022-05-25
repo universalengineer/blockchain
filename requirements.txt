@@ -24,7 +24,7 @@ mysqlclient==1.4.6
 pip==20.0.2
 protobuf==3.6.1
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 pytz==2019.3
 requests==2.22.0
 sentry-sdk[flask]==0.14.1
